@@ -1,5 +1,5 @@
-# Decompile by : Hamid Meer'hamii 
-# Time Succes decompile : 2022-03-07 00:21:42.178972 
+# Decompile by : SH'Sourov 
+# Time Succes decompile : 2022-06-12 00:21:42.178972 
 
 W = '\033[97;1m' 
 R = '\033[91;1m' 
